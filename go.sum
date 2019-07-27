@@ -1,0 +1,15 @@
+github.com/GuiltyMorishita/go-genutil v0.0.0-20190727062256-5e23931e44b3 h1:7f7+n81p1Q34ilc7m8frm17w7IB5OAdwH8WHCbPH0es=
+github.com/GuiltyMorishita/go-genutil v0.0.0-20190727062256-5e23931e44b3/go.mod h1:qOBd52NLjRHSMy8vdl/gSwerLb0rCIu+u0BVL2+PxpU=
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/hori-ryota/go-genaccessor v0.0.0-20190717121856-b0af978f1bb9 h1:Czum58xy9yxWR+0s5tOmTl/6kgOvE514qM76MQxi0kE=
+github.com/hori-ryota/go-genaccessor v0.0.0-20190717121856-b0af978f1bb9/go.mod h1:knXiPY3ReBRG2CuP1RwqQ5z8L1gHyl9IdjrarWGpB6k=
+github.com/hori-ryota/go-genutil v0.0.0-20190724021036-02571db90584 h1:cx3J3i3zryC5MpsUZC7jP+NhIKQ1Kh4T4k1VKwIN01g=
+github.com/hori-ryota/go-genutil v0.0.0-20190724021036-02571db90584/go.mod h1:9sPZb1sYl+IXabcQCVA2B8LgQWublEbpmosKUHqu2Ow=
+github.com/hori-ryota/go-strcase v0.0.0-20190401095315-dac77a757584 h1:13TGcXlouY80PKJt6j4SftzwB1CaeaJK8n3kIPHLH3o=
+github.com/hori-ryota/go-strcase v0.0.0-20190401095315-dac77a757584/go.mod h1:hh5jl3h7qQIjvpv7XkO3nqyvVyEwIB672EYB8jj5Q/Y=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
+github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=

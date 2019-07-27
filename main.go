@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/hori-ryota/go-genaccessor/genaccessor"
+	"github.com/GuiltyMorishita/go-genaccessor/genaccessor"
 )
 
 func main() {
