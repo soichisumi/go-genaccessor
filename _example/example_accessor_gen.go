@@ -4,6 +4,9 @@ package example
 
 import (
 	"encoding"
+
+	adamant "github.com/GincoInc/protobuf/gen/go/gincoinc/adamant/constant/v1"
+	constant "github.com/GincoInc/protobuf/gen/go/gincoinc/constant/v1"
 )
 
 func (m Person) ID() string {
@@ -32,4 +35,12 @@ func (m Person) Text() encoding.TextMarshaler {
 
 func (m *Person) SetText(s encoding.TextMarshaler) {
 	m.text = s
+}
+
+func (m Wallet) WalletType() adamant.WalletType {
+	return m.walletType
+}
+
+func (m Wallet) AddressType() constant.AddressType {
+	return m.addressType
 }
